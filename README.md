@@ -23,16 +23,27 @@ I enjoy building digital products, experimenting with AI-powered tools, and turn
 «"Don't just use technology. Build something with it."»
 
 ---
+⚔️ TECH ARSENAL
 
-🛠️ Tech Arsenal
+<div align="center">💻 Programming Languages
 
-<div align="center">Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css" height="55"/>
+</p>🧰 Frameworks & Libraries
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=opencv" height="55"/>
+</p>⚙️ Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,opencv,linux" /></div>Also Exploring: FFmpeg • GitHub Actions • AI Automation • Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,githubactions" height="55"/>
+</p>🚀 Currently Exploring
 
----
+<p>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=for-the-badge&logo=ai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Automation-00D9FF?style=for-the-badge&logo= zapier&logoColor=black"/>
+<img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white"/>
+</p></div>
 
 🚀 Featured Projects
 
@@ -46,15 +57,19 @@ I enjoy building digital products, experimenting with AI-powered tools, and turn
 <img src="https://img.shields.io/badge/🤖_AutomationHuub-YouTube_Automation-orange?style=for-the-badge" />
 </a></div>---
 
-📊 GitHub Analytics
+📊 GITHUB ANALYTICS
 
-<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=awais1903&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awais1903&layout=compact&theme=tokyonight&hide_border=true" /><br/><br/>
+<div align="center">📈 Contribution Activity
 
-<img width="75%" src="https://streak-stats.demolab.com?user=awais1903&theme=tokyonight&hide_border=true" /></div>---
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=awais1903&theme=tokyo-night&hide_border=true&area=true" width="100%"/>🔥 Contribution Streak
 
-🐍 Contribution Journey
+<img src="https://streak-stats.demolab.com/?user=awais1903&theme=tokyonight&hide_border=true" width="100%"/>💻 Most Used Languages
 
-<div align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" /></div>---
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awais1903&layout=compact&theme=tokyonight&hide_border=true" /></div>---
+
+🐍 MY CONTRIBUTION SNAKE
+
+<div align="center"><img src="https://raw.githubusercontent.com/awais1903/awais1903/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/></div>
 
 🎯 My Developer Philosophy
 
