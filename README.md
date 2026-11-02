@@ -22,17 +22,28 @@ I enjoy building digital products, experimenting with AI-powered tools, and turn
 
 «"Don't just use technology. Build something with it."»
 
----
 
-🛠️ Tech Arsenal
+⚔️ TECH ARSENAL
 
-<div align="center">Languages
+<div align="center">💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css" height="55"/>
+</p>🧰 Frameworks & Libraries
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,opencv,linux" /></div>Also Exploring: FFmpeg • GitHub Actions • AI Automation • Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=opencv" height="55"/>
+</p>⚙️ Tools & Platforms
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,githubactions" height="55"/>
+</p>🚀 Currently Exploring
+
+<p>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=for-the-badge&logo=ai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Automation-00D9FF?style=for-the-badge&logo= zapier&logoColor=black"/>
+<img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white"/>
+</p></div>
 
 🚀 Featured Projects
 
@@ -44,13 +55,7 @@ I enjoy building digital products, experimenting with AI-powered tools, and turn
 <img src="https://img.shields.io/badge/⚡_ToolsBazaar-Explore_Tools-22C55E?style=for-the-badge" />
 </a><a href="https://github.com/awais1903/automationhuub-youtube-bot">
 <img src="https://img.shields.io/badge/🤖_AutomationHuub-YouTube_Automation-orange?style=for-the-badge" />
-</a></div>---
-
-📊 GitHub Analytics
-
-<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=awais1903&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awais1903&layout=compact&theme=tokyonight&hide_border=true" /><br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=awais1903&theme=tokyonight&hide_border=true" /></div>---
+</a></div>
 
 🐍 Contribution Journey
 
@@ -64,7 +69,6 @@ I enjoy building digital products, experimenting with AI-powered tools, and turn
 - Focus on solving real problems.
 - Turn ambitious ideas into working projects.
 
----
 
 <div align="center">🤝 Let's Connect & Build Something Amazing!
 
