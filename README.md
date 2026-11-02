@@ -126,14 +126,11 @@ I enjoy building digital products, experimenting with AI-powered tools, and turn
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/awais1903/awais1903/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/awais1903/awais1903/output/github-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
-</picture>
+## 🐍 MY CONTRIBUTION SNAKE
+
+<img src="https://raw.githubusercontent.com/awais1903/awais1903/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 
 </div>
-
----
 
 ## 🎯 DEVELOPER PHILOSOPHY
 
